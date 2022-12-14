@@ -1,0 +1,49 @@
+{
+"name": "mobo",
+
+"domain": {
+
+
+  "downsample_rate1": {
+    "name":"downsample_rate1",
+    "type":"int",
+    "min":1,
+    "max":3
+  },
+
+  "f1": {
+    "name":"f1",
+    "type":"int",
+    "min":1,
+    "max":10
+  },
+
+  "k1": {
+    "name":"k1",
+    "type":"int",
+    "min":1,
+    "max":11
+  },
+ 
+   "p1": {
+    "name":"p1",
+    "type":"boolean"
+  },
+
+   "fc": {
+    "name":"fc",
+    "type":"boolean",
+   },
+
+   "fc_neurons": {
+    "name":"fc_neurons",
+    "type":"int",
+    "min":1,
+    "max":11
+   }
+
+
+
+  }
+}
+
