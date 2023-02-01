@@ -2,6 +2,10 @@
 
 Code repository for our paper published in DAC2021
 
+# Requirements
+
+Hardware benchmarking results were obtained using caffe on Jetson TX2 running Jetpack 4.2
+
 ## Citations
 ```bibtex
 @inproceedings{odema2021lens,
